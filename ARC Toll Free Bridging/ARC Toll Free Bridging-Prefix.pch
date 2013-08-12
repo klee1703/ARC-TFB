@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ARC Toll Free Bridging' target in the 'ARC Toll Free Bridging' project
+//
+
+#ifdef __OBJC__
+  #import <Foundation/Foundation.h>
+#endif
